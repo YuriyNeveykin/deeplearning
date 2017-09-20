@@ -1,7 +1,9 @@
 import cv2, os
 import numpy as np
 import matplotlib.image as mpimg
-
+"""
+Comment
+"""
 
 IMAGE_HEIGHT, IMAGE_WIDTH, IMAGE_CHANNELS = 66, 200, 3
 INPUT_SHAPE = (IMAGE_HEIGHT, IMAGE_WIDTH, IMAGE_CHANNELS)
